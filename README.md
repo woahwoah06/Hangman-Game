@@ -5,7 +5,7 @@ This game is about trying to guess a randomly selected word by entering random l
 
 # --Getting Started--
 
-**Step 1** - Download Python
+**Step 1** - Download Python  
 **Step 2** - Run the game
 
 # --Rules/Mechanics--
